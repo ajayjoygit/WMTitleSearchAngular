@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://localhost:44310/api/Titles/search/",
+      "secure": false 
+    }
+  }
